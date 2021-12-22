@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Curtis Powers
-- 👀 I’m interested in coding automation tools for vulnerability management/remediation
-- 🌱 I’m currently learning PowerShell, Python, and SQL
-- 💞️ I’m looking to collaborate on vulnerability analysis tools
-- 📫 How to reach me email
+Hello, 
 
-<!---
-curtispowers7/curtispowers7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Curtis Powers and I currently work as a Vulnerability Management Consultant for TransUnion. 
+
+In my job, I am required to use scripts to accomplish different functions. The PowerShell scripts are indicative of the type of work I've done in the past. 
+The Python scripts are exercises that I have done to try and transfer some of my skills from PowerShell into Python. 
+
+Thanks!
